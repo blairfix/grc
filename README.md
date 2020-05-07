@@ -20,7 +20,7 @@ Returns a value for the grc index, ranging between 0 (no hierarchy) and 1 (perfe
 
 We'll calculate the global reaching centrality of the hierarchy below. 
 
-![Example hierarchy]https://economicsfromthetopdown.files.wordpress.com/2019/05/hierarchy_model-1.png
+![Example hierarchy](https://economicsfromthetopdown.files.wordpress.com/2019/05/hierarchy_model-1.png)
 
 
 ```R
